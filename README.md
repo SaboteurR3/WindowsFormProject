@@ -1,2 +1,2 @@
 # WindowsFormProject
-Image_Slider_Project
+Image_Slider_Project(WindowsForm)
